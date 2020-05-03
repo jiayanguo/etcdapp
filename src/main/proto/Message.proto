@@ -1,0 +1,9 @@
+syntax = "proto2";
+package com.example.proto.model;
+
+option optimize_for = SPEED;
+
+message DemoMessage {
+  optional string name = 1;
+  optional string body = 2;
+}
