@@ -1,3 +1,4 @@
+![logo](./logo.png)
 ## Build an webapp using etcd as DB
 
 ### Prerequisite
