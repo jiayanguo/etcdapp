@@ -5,3 +5,7 @@
         `kubectl apply -f etcd-cluster.yaml`
 * 3. Now you should see the cluster
  ![pods](./etcd.cluster.png)
+ 
+ ## Reference
+ https://github.com/coreos/etcd-operator
+ 
